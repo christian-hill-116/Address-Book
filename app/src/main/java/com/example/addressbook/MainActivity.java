@@ -16,7 +16,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
    private Button add, remove, edit, display, sort, search;
-    Button  btn_email, btn_dial, btn_call, btn_text, btn_maps;
+    Button  btn_email, btn_call, btn_text, btn_maps;
 
     EditText et_data;
 
